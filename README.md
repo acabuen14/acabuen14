@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acabuen14
 - 👀 I’m interested in programming, development, devops and security.
-- 🌱 I’m currently learning CS50, Python and Unix. 
+- 🌱 Currently working on Azure certifications.  
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me alvin.cabuen@live.com | LinkedIn: alvinc14
 
