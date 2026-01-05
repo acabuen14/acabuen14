@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a Systems Administrator and Engineer with a strong passion for **programming**, **DevOps**, **security**, and **cloud computing**. I love exploring new technologies and continuously improving my skills through hands-on experience and certifications.
+Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a currently a Solutions Architect with a strong passion for **infrastructure management**,**programming**, **DevOps**, **security**, and **cloud computing**. I love exploring new technologies and continuously improving my skills through hands-on experience and certifications.
 
 ## 🌟 About Me
 
@@ -15,22 +15,26 @@ I’m committed to continuous learning and have obtained multiple certifications
 
 ### Microsoft Azure:
 - **AZ-104**: Microsoft Azure Administrator
-- **AZ-204**: Developing Solutions for Microsoft Azure *(currently working towards)*
+- **AZ-204**: Developing Solutions for Microsoft Azure
 - **AZ-305**: Designing Microsoft Azure Infrastructure Solutions
 - **AZ-700**: Designing and Implementing Microsoft Azure Networking Solutions
 - **AZ-140**: Configuring and Operating Microsoft Azure Virtual Desktop
-- **AZ-500**: Microsoft Azure Security Technologies
+- **AZ-800/801**: Administering Windows Server Hybrid Core Infrastructure
+- **AI-102**: Azure AI Engineer Associate
 
 ### Security:
+- **AZ-500**: Microsoft Azure Security Technologies
 - **SC-300**: Microsoft Identity and Access Administrator
 - **SC-100**: Microsoft Cybersecurity Architect
 
-### Other:
-- **AZ-800/801**: Administering Windows Server Hybrid Core Infrastructure
+### Microsoft 365:
+- **MD-102**: Endpoint Administrator Associate
+- **MS-102**: Microsoft Administrator
 
 ## 💡 Skills & Expertise
 
 - **System Administration**: Managing and maintaining IT systems, networks, and infrastructure.
+- **Virtualization**: Horizon/Omnissa, RDS, AVD
 - **Network Engineering**: Designing, configuring, and managing network solutions.
 - **Cloud Computing (Azure)**: Implementing and managing cloud services for enterprises.
 - **DevOps & CI/CD**: Automating development pipelines and improving deployment efficiency.
