@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a currently a Solutions Architect with a strong passion for **infrastructure management**,**programming**, **DevOps**, **security**, and **cloud computing**. I love exploring new technologies and continuously improving my skills through hands-on experience and certifications.
+Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a Solutions Architect with a strong passion for **infrastructure management**,**programming**, **DevOps**, **security**, and **cloud computing**. I love exploring new technologies and continuously improving my skills through hands-on experience and certifications.
 
 ## 🌟 About Me
 
