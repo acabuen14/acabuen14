@@ -41,8 +41,8 @@ I’m committed to continuous learning. I am currently taking up my **Master of 
 - **Cybersecurity**: Securing systems, networks, and applications.
 
 ## Education
-- **Master of Business Administration** (In Progress) - De La Salle University
-- **Bachelor of Science in Information Technology** - Lyceum of the Philippines University - Manila
+- **Master of Business Administration** (In Progress) - **De La Salle University**
+- **Bachelor of Science in Information Technology** - **Lyceum of the Philippines University - Manila**
 
 ## 📫 Let's Connect!
 
