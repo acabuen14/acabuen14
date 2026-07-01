@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a Solutions Architect with a strong passion for **infrastructure management**,**programming**, **DevOps**, **security**, and **cloud computing**. I love exploring new technologies and continuously improving my skills through hands-on experience and certifications.
+Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a Solutions Architect with a strong passion for **infrastructure management**,**programming**, **DevOps**, **security**, and **cloud computing**. I love exploring new technologies and continuously improving my skills through hands-on experience and certifications. 
 
 ## 🌟 About Me
 
@@ -11,7 +11,7 @@ Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a Solutions Ar
 
 ## 🏅 Certifications
 
-I’m committed to continuous learning and have obtained multiple certifications to back my expertise:
+I’m committed to continuous learning. I am currently taking up my Master of Business Administration and also have obtained multiple certifications to back my expertise:
 
 ### Microsoft Azure:
 - **AZ-104**: Microsoft Azure Administrator
@@ -39,6 +39,10 @@ I’m committed to continuous learning and have obtained multiple certifications
 - **Cloud Computing (Azure)**: Implementing and managing cloud services for enterprises.
 - **DevOps & CI/CD**: Automating development pipelines and improving deployment efficiency.
 - **Cybersecurity**: Securing systems, networks, and applications.
+
+## Education
+- **Master of Business Administration** (In Progress) - De La Salle University
+- **Bachelor of Science in Information Technology** - Lyceum of the Philippines University - Manila
 
 ## 📫 Let's Connect!
 
