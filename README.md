@@ -11,7 +11,7 @@ Hello, I’m Alvin, also known as **@acabuen14** on GitHub! I’m a Solutions Ar
 
 ## 🏅 Certifications
 
-I’m committed to continuous learning. I am currently taking up my Master of Business Administration and also have obtained multiple certifications to back my expertise:
+I’m committed to continuous learning. I am currently taking up my **Master of Business Administration** and also have obtained multiple certifications to back my expertise:
 
 ### Microsoft Azure:
 - **AZ-104**: Microsoft Azure Administrator
